@@ -9,7 +9,7 @@ To join, please [tell us about yourself](https://docs.google.com/forms/d/e/1FAIp
 
 ### Contact Us
 - Twitter : [@BeyondModeling](https://twitter.com/BeyondModeling)
-- Discord : [Modeling and Beyond](https://discord.gg/NRcpzJ)
+- Discord : [Modeling and Beyond](https://discord.gg/pYb6uZE)
 
 **Please feel free to raise issues on github [here](https://github.com/amoghpj/modeling-and-beyond/issues)**
 
