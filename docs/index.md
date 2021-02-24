@@ -14,12 +14,6 @@ Please [tell us about yourself](https://docs.google.com/forms/d/e/1FAIpQLScSh6Gw
 
 ### *Note: we have members around the globe, and try to schedule events to accomodate all time zones. Typically we meet at 12pm EST/4pm GMT/9pm IST*
 ---
-## Who we are
-![image](https://i.imgur.com/xmsaRqD.png "Renee and Amogh")  
-
-**Renee Dale** is a postdoctoral scientist at a non-profit plant science center. She is a mathematical biologist who uses mechanistic modeling, probabilistic, and stochastic methods to study how cellular components interact to produce emergent properties and traits in plants. Check out her [website](http://rdale1.github.io/), [blog](https://iambecomecomputational.com), and [Twitter](https://twitter.com/b10_m0del1ng). **Amogh Jalihal** is a postdoctoral scientist at Harvard Medical School. He uses mathematical, computational, and experimental techniques to study metabolism, signaling, and biochemical kinetic networks in yeast. Check out his [website, blog](http://amoghpj.github.io/) and [Twitter](https://twitter.com/amogh_jalihal). 
-
----
 ## Resources
 - [Recommended literature](https://www.zotero.org/groups/2548503/modelingandbeyond)
 
@@ -32,4 +26,8 @@ Please [tell us about yourself](https://docs.google.com/forms/d/e/1FAIpQLScSh6Gw
 [Send us an email](mailto:iambecomecomputational@gmail.com), DM us on Discord or Twitter!
 
 **Please feel free to raise issues on comments and feedback [on our Github](https://github.com/amoghpj/modeling-and-beyond/issues)**
+---
+## Who we are
+![image](https://i.imgur.com/xmsaRqD.png "Renee and Amogh")  
 
+**Renee Dale** is a postdoctoral scientist at a non-profit plant science center. She is a mathematical biologist who uses mechanistic modeling, probabilistic, and stochastic methods to study how cellular components interact to produce emergent properties and traits in plants. Check out her [website](http://rdale1.github.io/), [blog](https://iambecomecomputational.com), and [Twitter](https://twitter.com/b10_m0del1ng). **Amogh Jalihal** is a postdoctoral scientist at Harvard Medical School. He uses mathematical, computational, and experimental techniques to study metabolism, signaling, and biochemical kinetic networks in yeast. Check out his [website, blog](http://amoghpj.github.io/) and [Twitter](https://twitter.com/amogh_jalihal). 
