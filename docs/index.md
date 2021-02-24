@@ -2,7 +2,7 @@
 Welcome to the online home of this community.
 ![](https://i.imgur.com/1Me4EkX.jpg)
 
-We are an early-career group of modelers who want more community discussion and peer-mentoring surrounding modeling, particularly in the age of social distancing. We share interesting papers, give feedback on presentations and ideas, share our expertise to other members, discuss challenges we face as modelers, and promote opportunities that may be of interest. 
+We are a community of modelers who want more community discussion and peer-mentoring surrounding modeling. We share interesting papers, give feedback on presentations and ideas, share our expertise to other members, discuss challenges we face as modelers, and promote opportunities that may be of interest. 
 
 ## Get Involved
 Please [tell us about yourself](https://docs.google.com/forms/d/e/1FAIpQLScSh6GwNH2Zo1lLWxrZqOHrn_LPTAipkeie3BEV_EVRMeW_Rg/viewform) and
@@ -15,7 +15,8 @@ Please [tell us about yourself](https://docs.google.com/forms/d/e/1FAIpQLScSh6Gw
 ### *Note: we have members around the globe, and try to schedule events to accomodate all time zones. Typically we meet at 12pm EST/4pm GMT/9pm IST*
 ---
 ## Who we are
-![](https://i.imgur.com/xmsaRqD.png)
+![image](https://i.imgur.com/xmsaRqD.png "Renee and Amogh")  
+
 **Renee Dale** is a postdoctoral scientist at a non-profit plant science center. She is a mathematical biologist who uses mechanistic modeling, probabilistic, and stochastic methods to study how cellular components interact to produce emergent properties and traits in plants. Check out her [website](http://rdale1.github.io/), [blog](https://iambecomecomputational.com), and [Twitter](https://twitter.com/b10_m0del1ng). **Amogh Jalihal** is a postdoctoral scientist at Harvard Medical School. He uses mathematical, computational, and experimental techniques to study metabolism, signaling, and biochemical kinetic networks in yeast. Check out his [website, blog](http://amoghpj.github.io/) and [Twitter](https://twitter.com/amogh_jalihal). 
 
 ---
